@@ -1,0 +1,47 @@
+# CPU Scheduling Comparison Project  
+## Round Robin vs SRTF
+
+---
+
+## 📌 Project Description
+
+This project implements and compares two CPU scheduling algorithms:
+
+- Round Robin (RR)
+- Shortest Remaining Time First (SRTF)
+
+The system simulates process scheduling and compares both algorithms in terms of:
+- Waiting Time (WT)
+- Turnaround Time (TAT)
+- Response Time (RT)
+- Fairness and efficiency
+
+It also visualizes execution using Gantt Charts.
+
+---
+
+## ⚙️ Requirements
+
+- Programming Language: Java
+- GUI Framework: Java Swing 
+- Development Environment: Visual Studio Code
+- 
+
+---
+
+ ## ▶️ How to Run
+
+1. Open the project in Visual Studio Code or similar
+2. Load all Java source files
+3. Make sure JDK is configured
+4. Run the main class (SchedulerGUI) using the IDE Run button
+---
+
+## 👥 Team Members
+
+- Sara Mohamed Rashwan Mohamed  
+- Sondos Hassan Ghalshani  
+- Mariam Hany Fathy  
+- Sara Mostafa Nagy  
+- Hagar Ezzat Ismail  
+- Amira Ali Abdelhafeez  
